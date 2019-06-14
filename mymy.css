@@ -1,0 +1,18 @@
+h1{
+ font-family: 'Baloo Da', cursive;
+ font-size: 49px;
+}
+body {
+  font-family: 'Baloo Da', cursive;
+  font-size: 23px;
+  background-color: #CCD1D1;
+}
+ol {
+ font-family: 'Questrial', sans-serif;
+   font-size: 19px;
+}
+img { object-fit: cover;
+ border: 5px solid;
+ margin: 30px;
+ padding: 20px;
+}

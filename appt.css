@@ -1,0 +1,57 @@
+#logo{
+  width: 300px;
+  height:300px;
+  margin-left: 1100px;
+
+}
+h1{
+  font-family: 'Neucha', cursive;
+  top: 20px;
+  position: absolute;
+  margin-left: 500px;
+}
+body{
+  background-color: #CCD1D1;
+}
+li{
+  font-size: 23px;
+}
+.first1{
+  padding: 6px;
+}
+#pic2{
+  width: 300px;
+  height: 300px;
+  padding: 6px;
+  margin-left: 500px;
+
+}
+.first2{
+  padding: 6px;
+}
+#pic3{
+  width: 300px;
+  height: 300px;
+  padding: 6px;
+  margin-left: 500px;
+}
+.first3{
+
+  padding: 6px;
+}
+#pic4{
+  width: 300px;
+  height: 300px;
+  padding: 6px;
+  margin-left: 500px;
+}
+.first4{
+
+  padding: 6px;
+}
+#pic5{
+  width: 300px;
+  height: 300px;
+  padding: 6px;
+  margin-left: 500px;
+}

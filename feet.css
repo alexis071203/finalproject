@@ -1,0 +1,27 @@
+h1{
+  font-family: 'Special Elite', cursive;
+  text-align: center;
+}
+body{
+  background-color:  #CCD1D1;
+}
+#second{
+  width: 300px;
+  margin-left: 350px;
+  padding: 30px;
+}
+#third{
+  width: 300px
+  margin-left: 50px;
+  height: 300px;
+  padding: 30px;
+}
+ul{
+  font-size: 35px;
+}
+li{
+  margin-left: 100px;
+  padding: 3px;
+  bottom: 20px;
+  font-size: 19px;
+}
